@@ -1,32 +1,37 @@
-Focus App
+# Focus App
 
 A lightweight desktop productivity application built with Java Swing. The application helps users stay focused, manage daily tasks, and organize notes in one place.
 
-Features
+## Features
 
-* Pomodoro Timer
-    * Customizable work and break sessions to improve focus and productivity.
-* Task Manager
-    * Create, track, and manage daily tasks efficiently.
-* Notes Section
-    * Quickly write down ideas, reminders, and important notes.
+- **Pomodoro Timer**
+  - Customizable work and break sessions to improve focus and productivity.
 
-Built With
+- **Task Manager**
+  - Create, track, and manage daily tasks efficiently.
 
-* Programming Language: Java
-* GUI Framework: Java Swing / AWT
+- **Notes Section**
+  - Quickly write down ideas, reminders, and important notes.
 
-How to Run
+## Built With
+
+- **Programming Language:** Java
+- **GUI Framework:** Java Swing / AWT
+
+## How to Run
 
 1. Clone the repository:
-
-git clone https://github.com/your-username/Focus-App.git
+   ```bash
+   git clone https://github.com/Ahmedabdelghaffar449/Focus-App.git
+   ```
 
 2. Open the project in your preferred Java IDE.
-3. Run the main class (Focus.java) to start the application.
 
-Project Structure
+3. Run the main class (`Focus.java`) to start the application.
 
+## Project Structure
+
+```text
 Focus-App/
 │
 ├── src/
@@ -34,17 +39,17 @@ Focus-App/
 │   └── ...
 │
 └── README.md
+```
 
-Future Improvements
+## Future Improvements
 
-* Dark Mode
-* Task Notifications
-* Data Persistence
-* Custom Themes
+- Dark Mode
+- Task Notifications
+- Data Persistence
+- Custom Themes
 
-Author
+## Author
 
-Ahmed Abdelgaffar
-
-* Computer Science Student
-* Interested in Software Development, AI, and Machine Learning
+**Ahmed Abdelgaffar**
+- Computer Science Student
+- Interested in Software Development, AI, and Machine Learning
